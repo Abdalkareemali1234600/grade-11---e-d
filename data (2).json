@@ -1,0 +1,47 @@
+{
+  "homework": [
+    {
+      "id": "phys-hw-1",
+      "subject": "phys",
+      "title": "واجب الفيزياء",
+      "details": "الواجب في الصورة: إثبات حالات محصلة متجهين باستخدام القانون العام.\n\nيُرسل الحل على مجموعة الواتساب.",
+      "closed": true,
+      "date": "2026-10-27",
+      "att": {
+        "src": "hw-physics-1.jpg",
+        "type": "image/jpeg",
+        "name": "واجب الفيزياء"
+      },
+      "link": {
+        "url": "https://chat.whatsapp.com/JBGXZRbtgMO03qSRlqjazj?s=cl&p=i&ilr=4&iam=2",
+        "label": "إرسال الواجب (واتساب)"
+      }
+    },
+    {
+      "id": "arab-hw-2",
+      "subject": "arab",
+      "title": "حل تدريبات درس النعت",
+      "details": "حل تدريبات درس النعت، صفحة 9 و 10 (الصورة).\n\nموعد التسليم: الأربعاء 28 أكتوبر، من الساعة 7 حتى 11 مساءً بتوقيت مصر.\n\nيُرسل الحل على مجموعة اللغة العربية على واتساب.",
+      "due": "2026-10-28",
+      "date": "2026-10-28",
+      "att": {
+        "src": "hw-arabic-2.jpg",
+        "type": "image/jpeg",
+        "name": "تدريبات درس النعت"
+      },
+      "link": {
+        "url": "https://chat.whatsapp.com/JMStcTOroEy04E5QsobUGg?s=cl&p=a&mlu=4&ilr=4",
+        "label": "إرسال الواجب على مجموعة اللغة العربية (واتساب)"
+      }
+    }
+  ],
+  "announcements": [
+    {
+      "id": "salawat",
+      "pin": true,
+      "date": "2026-10-26",
+      "title": "اللهمّ صلّ وسلّم وبارك على سيدنا محمد وعلى آله وصحبه أجمعين",
+      "body": ""
+    }
+  ]
+}
